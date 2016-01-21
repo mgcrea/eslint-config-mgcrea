@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-mgcrea",
+  "version": "1.0.0",
+  "description": "ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mgcrea/eslint-config-mgcrea.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Olivier Louvignes <olivier@mg-crea.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgcrea/eslint-config-mgcrea/issues"
+  },
+  "homepage": "https://github.com/mgcrea/eslint-config-mgcrea#readme",
+  "dependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^3.1.0"
+  }
+}
