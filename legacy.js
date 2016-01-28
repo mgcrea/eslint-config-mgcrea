@@ -11,7 +11,11 @@ module.exports = {
     "no-unused-vars": [2, {"args": "none"}],
     "no-use-before-define": [2, "nofunc"],
     "object-curly-spacing": [2, "never"],
+    "space-before-function-paren": [2, "never"],
     "strict": [2, "global"],
-    "vars-on-top": 1
+    "padded-blocks": 1,
+    "vars-on-top": 0,
+    "func-names": 0
   }
 };
+
