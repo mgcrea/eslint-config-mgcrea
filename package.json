@@ -21,6 +21,6 @@
   "homepage": "https://github.com/mgcrea/eslint-config-mgcrea#readme",
   "dependencies": {
     "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^3.1.0"
+    "eslint-config-airbnb": "^4.0.0"
   }
 }
