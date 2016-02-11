@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mgcrea",
-  "version": "2.0.0",
+  "version": "5.0.0",
   "description": "ESLint configuration",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/mgcrea/eslint-config-mgcrea#readme",
   "dependencies": {
     "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^4.0.0"
+    "eslint-config-airbnb": "^5.0.0"
   }
 }
