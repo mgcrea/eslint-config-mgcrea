@@ -3,6 +3,7 @@ module.exports = {
     'eslint-config-airbnb/base'
   ].map(require.resolve),
   'rules': {
+    "arrow-body-style": 0,
     "comma-dangle": [2, "never"],
     "id-length": 0,
     "max-len": 0,
@@ -10,6 +11,7 @@ module.exports = {
     "no-param-reassign": [2, {"props": false}],
     "no-unused-vars": [2, {"args": "none"}],
     "no-use-before-define": [2, "nofunc"],
-    "object-curly-spacing": [2, "never"]
+    "object-curly-spacing": [2, "never"],
+    "space-before-function-paren": [2, "never"]
   }
 };
