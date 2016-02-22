@@ -11,7 +11,6 @@ module.exports = {
     "no-param-reassign": [2, {"props": false}],
     "no-unused-vars": [2, {"args": "none"}],
     "no-use-before-define": [2, "nofunc"],
-    "object-curly-spacing": [2, "never"],
-    "space-before-function-paren": [2, "never"]
+    "object-curly-spacing": [2, "never"]
   }
 };
