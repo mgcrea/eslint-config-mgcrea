@@ -1,7 +1,7 @@
 module.exports = {
   'extends': [
     'eslint-config-airbnb/base'
-  ].map(require.resolve),
+  ],
   'rules': {
     "arrow-body-style": 0,
     "comma-dangle": [2, "never"],

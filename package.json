@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mgcrea/eslint-config-mgcrea#readme",
   "dependencies": {
-    "eslint": "^2.2.0",
-    "eslint-config-airbnb": "^6.0.1"
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0"
   }
 }
